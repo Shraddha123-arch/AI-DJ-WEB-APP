@@ -1,0 +1,72 @@
+.heading
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    color: teal;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img{
+    width: 100px;
+    border-radius: 200px;
+}
+
+#speed{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.div_volume_img{
+    width: 100px;
+    border-radius: 200px;
+}
+
+#volume{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+#button{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    text-decoration: teal;
+    border-radius: 200px;
+}
+
+#button1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    text-decoration: teal;
+    border-radius: 200px;
+}
+
+canvas{
+    border-radius: 20px;
+    border-color: yellow;
+    border-style: solid;
+    border-width: 15px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 50px lightgreen;
+}
